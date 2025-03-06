@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1741258457 source:d:\bmtp-lab7-Калініченко\prj\Калініченко-task_7_1\main.c
+	<stdio.h>
+	<string.h>
+	<locale.h>
+
